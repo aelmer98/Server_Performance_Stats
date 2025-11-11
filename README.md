@@ -1,4 +1,5 @@
 # Server Performance Stats Script
+https://github.com/aelmer98/Server_Performance_Stats
 
 A simple Bash script to display basic server performance metrics from the command line.
 
