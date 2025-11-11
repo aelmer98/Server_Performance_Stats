@@ -53,20 +53,3 @@ Top 5 processes by Memory usage USER PID %MEM ... mysql 123 10.5 ... ...
 * A Linux-based operating system.
 * Bash (the script is written for `#!/bin/bash`).
 * Standard Linux utilities: `awk`, `top`, `free`, `df`, `ps`, `grep`, `head`.
-How to use this:
-Create the file: In your project directory, run:
-
-Bash
-
-nano README.md
-Paste: Paste the text above into the editor.
-
-Save: Press Ctrl+O, then Enter, then Ctrl+X.
-
-Push it to GitHub:
-
-Bash
-
-git add README.md
-git commit -m "Add project README file"
-git push
