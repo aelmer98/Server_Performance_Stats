@@ -1,5 +1,4 @@
 # Server Performance Stats Script
-https://github.com/aelmer98/Server_Performance_Stats
 
 A simple Bash script to display basic server performance metrics from the command line.
 
@@ -54,3 +53,8 @@ Top 5 processes by Memory usage USER PID %MEM ... mysql 123 10.5 ... ...
 * A Linux-based operating system.
 * Bash (the script is written for `#!/bin/bash`).
 * Standard Linux utilities: `awk`, `top`, `free`, `df`, `ps`, `grep`, `head`.
+
+
+## Project URL
+
+https://roadmap.sh/projects/server-stats
